@@ -51,3 +51,11 @@
     width: 250px;
     margin: 1rem;
 }
+.gpt3__footer-links_logo{
+    display: flex;
+    flex-direction: column;
+}
+.gpt3__footer-links_logo img{
+    width: 118px;
+    height: 30px;
+}
